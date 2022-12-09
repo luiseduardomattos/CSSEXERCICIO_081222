@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(https://live.staticflickr.com/4011/4550812850_10d35acb9e_b.jpg);
+}
+
+h1 {
+    margin: 0;
+    padding: 30px 0;
+    color: black;
+    text-shadow: 1px 1px 1px dimgray;
+    text-align: center;
+} 
+
+
+p{ 
+        background-color: dimgray;
+        text-align: center;
+}
+div{
+    text-align: center;
+}
